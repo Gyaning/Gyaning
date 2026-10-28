@@ -1,6 +1,6 @@
 ### hey, i'm gyan :)
 
-a learner at heart, always trying out crypto products and helping them get to market.
+a learner at heart, always trying out crypto products and helping them go to market.
 
 growth, partnerships and launches in crypto, and building things with claude code on the side.
 
