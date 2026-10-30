@@ -6,5 +6,5 @@ growth, partnerships and launches in crypto, and building things with claude cod
 
 - site: [gyan.ing](https://gyan.ing)
 - x: [@gyan_w3b](https://x.com/gyan_w3b)
+- telegram: [@gyaning02](https://t.me/gyaning02)
 - linkedin: [in/gyaningle](https://www.linkedin.com/in/gyaningle/)
-- say hi: [hello@itsgyan.com](mailto:hello@itsgyan.com)
